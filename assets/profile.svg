@@ -11,14 +11,14 @@
       .titletext { font-family: 'Courier New', monospace; font-size: 13px; fill: #7f8aa6; }
       .promptcmd { font-family: 'Courier New', monospace; font-size: 15px; fill: #7ee787; white-space: pre; }
       .promptcursor { fill: #00ff41; }
-      @keyframes promptClip0 { 0% { width: 0px; animation-timing-function: steps(1, jump-end); } 0.0% { width: 0px; animation-timing-function: steps(16, jump-end); } 9.481% { width: 144.0px; animation-timing-function: steps(1, jump-end); } 17.63% { width: 144.0px; animation-timing-function: steps(16, jump-end); } 22.963% { width: 0px; animation-timing-function: steps(1, jump-end); } 100% { width: 0px; animation-timing-function: steps(1, jump-end); } }
-      @keyframes promptClip1 { 0% { width: 0px; animation-timing-function: steps(1, jump-end); } 25.926% { width: 0px; animation-timing-function: steps(19, jump-end); } 37.185% { width: 171.0px; animation-timing-function: steps(1, jump-end); } 45.333% { width: 171.0px; animation-timing-function: steps(19, jump-end); } 51.667% { width: 0px; animation-timing-function: steps(1, jump-end); } 100% { width: 0px; animation-timing-function: steps(1, jump-end); } }
-      @keyframes promptClip2 { 0% { width: 0px; animation-timing-function: steps(1, jump-end); } 54.63% { width: 0px; animation-timing-function: steps(37, jump-end); } 76.556% { width: 333.0px; animation-timing-function: steps(1, jump-end); } 84.704% { width: 333.0px; animation-timing-function: steps(37, jump-end); } 97.037% { width: 0px; animation-timing-function: steps(1, jump-end); } 100% { width: 0px; animation-timing-function: steps(1, jump-end); } }
-      .promptClipRect0 { animation: promptClip0 13.500s infinite; }
-      .promptClipRect1 { animation: promptClip1 13.500s infinite; }
-      .promptClipRect2 { animation: promptClip2 13.500s infinite; }
-      @keyframes promptCursorMove { 0% { transform: translateX(0px); animation-timing-function: steps(1, jump-end); } 0.0% { transform: translateX(0px); animation-timing-function: steps(16, jump-end); } 9.481% { transform: translateX(144.0px); animation-timing-function: steps(1, jump-end); } 17.63% { transform: translateX(144.0px); animation-timing-function: steps(16, jump-end); } 22.963% { transform: translateX(0px); animation-timing-function: steps(1, jump-end); } 25.926% { transform: translateX(0px); animation-timing-function: steps(19, jump-end); } 37.185% { transform: translateX(171.0px); animation-timing-function: steps(1, jump-end); } 45.333% { transform: translateX(171.0px); animation-timing-function: steps(19, jump-end); } 51.667% { transform: translateX(0px); animation-timing-function: steps(1, jump-end); } 54.63% { transform: translateX(0px); animation-timing-function: steps(37, jump-end); } 76.556% { transform: translateX(333.0px); animation-timing-function: steps(1, jump-end); } 84.704% { transform: translateX(333.0px); animation-timing-function: steps(37, jump-end); } 97.037% { transform: translateX(0px); animation-timing-function: steps(1, jump-end); } 100% { transform: translateX(0px); animation-timing-function: steps(1, jump-end); } }
-      .promptcursor { animation: promptCursorMove 13.500s infinite, blink 1s steps(1) infinite; }
+      @keyframes promptClip0 { 0% { width: 0px; animation-timing-function: steps(1, jump-end); } 0.0% { width: 0px; animation-timing-function: steps(24, jump-end); } 14.769% { width: 216.0px; animation-timing-function: steps(1, jump-end); } 23.231% { width: 216.0px; animation-timing-function: steps(24, jump-end); } 31.538% { width: 0px; animation-timing-function: steps(1, jump-end); } 100% { width: 0px; animation-timing-function: steps(1, jump-end); } }
+      @keyframes promptClip1 { 0% { width: 0px; animation-timing-function: steps(1, jump-end); } 34.615% { width: 0px; animation-timing-function: steps(19, jump-end); } 46.308% { width: 171.0px; animation-timing-function: steps(1, jump-end); } 54.769% { width: 171.0px; animation-timing-function: steps(19, jump-end); } 61.346% { width: 0px; animation-timing-function: steps(1, jump-end); } 100% { width: 0px; animation-timing-function: steps(1, jump-end); } }
+      @keyframes promptClip2 { 0% { width: 0px; animation-timing-function: steps(1, jump-end); } 64.423% { width: 0px; animation-timing-function: steps(25, jump-end); } 79.808% { width: 225.0px; animation-timing-function: steps(1, jump-end); } 88.269% { width: 225.0px; animation-timing-function: steps(25, jump-end); } 96.923% { width: 0px; animation-timing-function: steps(1, jump-end); } 100% { width: 0px; animation-timing-function: steps(1, jump-end); } }
+      .promptClipRect0 { animation: promptClip0 13.000s infinite; }
+      .promptClipRect1 { animation: promptClip1 13.000s infinite; }
+      .promptClipRect2 { animation: promptClip2 13.000s infinite; }
+      @keyframes promptCursorMove { 0% { transform: translateX(0px); animation-timing-function: steps(1, jump-end); } 0.0% { transform: translateX(0px); animation-timing-function: steps(24, jump-end); } 14.769% { transform: translateX(216.0px); animation-timing-function: steps(1, jump-end); } 23.231% { transform: translateX(216.0px); animation-timing-function: steps(24, jump-end); } 31.538% { transform: translateX(0px); animation-timing-function: steps(1, jump-end); } 34.615% { transform: translateX(0px); animation-timing-function: steps(19, jump-end); } 46.308% { transform: translateX(171.0px); animation-timing-function: steps(1, jump-end); } 54.769% { transform: translateX(171.0px); animation-timing-function: steps(19, jump-end); } 61.346% { transform: translateX(0px); animation-timing-function: steps(1, jump-end); } 64.423% { transform: translateX(0px); animation-timing-function: steps(25, jump-end); } 79.808% { transform: translateX(225.0px); animation-timing-function: steps(1, jump-end); } 88.269% { transform: translateX(225.0px); animation-timing-function: steps(25, jump-end); } 96.923% { transform: translateX(0px); animation-timing-function: steps(1, jump-end); } 100% { transform: translateX(0px); animation-timing-function: steps(1, jump-end); } }
+      .promptcursor { animation: promptCursorMove 13.000s infinite, blink 1s steps(1) infinite; }
       .fadein { animation-name: reveal; animation-duration: 0.35s; animation-fill-mode: forwards; animation-timing-function: steps(1); opacity: 0; }
       .typewriter { animation-name: reveal; animation-duration: 0.4s; animation-fill-mode: forwards; animation-timing-function: steps(1); opacity: 0; }
       .swatch { animation-name: revealSwatch; animation-duration: 0.35s; animation-fill-mode: forwards; animation-timing-function: steps(1); opacity: 0; }
@@ -28,13 +28,13 @@
     </style>
 
       <clipPath id="promptClip0">
-        <rect x="79.0" y="558" width="144.0" height="20" class="promptClipRect0" />
+        <rect x="79.0" y="558" width="216.0" height="20" class="promptClipRect0" />
       </clipPath>
       <clipPath id="promptClip1">
         <rect x="79.0" y="558" width="171.0" height="20" class="promptClipRect1" />
       </clipPath>
       <clipPath id="promptClip2">
-        <rect x="79.0" y="558" width="333.0" height="20" class="promptClipRect2" />
+        <rect x="79.0" y="558" width="225.0" height="20" class="promptClipRect2" />
       </clipPath>
   </defs>
 
@@ -71,14 +71,14 @@
   <line x1="365.6" y1="104" x2="565.6" y2="104" class="rule" />
 
       <text x="365.6" y="134" class="fieldline typewriter" style="animation-delay:0.50s"><tspan class="label">Role:</tspan> <tspan class="value">ai • trading • automation</tspan></text>
-      <text x="365.6" y="156" class="fieldline typewriter" style="animation-delay:0.56s"><tspan class="label">Focus:</tspan> <tspan class="value">agents that trade while i sleep</tspan></text>
+      <text x="365.6" y="156" class="fieldline typewriter" style="animation-delay:0.56s"><tspan class="label">Focus:</tspan> <tspan class="value">cybersecurity • penetration testing</tspan></text>
       <text x="365.6" y="178" class="fieldline typewriter" style="animation-delay:0.62s"><tspan class="label">Stack.Languages:</tspan> <tspan class="value">python, typescript, java, c#</tspan></text>
       <text x="365.6" y="200" class="fieldline typewriter" style="animation-delay:0.68s"><tspan class="label">Stack.Frontend:</tspan> <tspan class="value">react, next.js, tailwind, css</tspan></text>
       <text x="365.6" y="222" class="fieldline typewriter" style="animation-delay:0.74s"><tspan class="label">Stack.Backend:</tspan> <tspan class="value">node.js, .net, firebase</tspan></text>
       <text x="365.6" y="244" class="fieldline typewriter" style="animation-delay:0.80s"><tspan class="label">Stack.Ops:</tspan> <tspan class="value">docker, git, powershell, cmake</tspan></text>
       <text x="365.6" y="266" class="fieldline typewriter" style="animation-delay:0.86s"><tspan class="label">Stack.Misc:</tspan> <tspan class="value">unity</tspan></text>
-      <text x="365.6" y="288" class="fieldline typewriter" style="animation-delay:0.92s"><tspan class="label">Environment:</tspan> <tspan class="value">windows 11, vscode, visual studio</tspan></text>
-      <text x="365.6" y="310" class="fieldline typewriter" style="animation-delay:0.98s"><tspan class="label">AI.Copilot:</tspan> <tspan class="value">claude (owns the codebase)</tspan></text>
+      <text x="365.6" y="288" class="fieldline typewriter" style="animation-delay:0.92s"><tspan class="label">Environment:</tspan> <tspan class="value">dual boot: gentoo / win11 — mostly gentoo</tspan></text>
+      <text x="365.6" y="310" class="fieldline typewriter" style="animation-delay:0.98s"><tspan class="label">Editors:</tspan> <tspan class="value">vscode, visual studio</tspan></text>
       <text x="365.6" y="332" class="fieldline typewriter" style="animation-delay:1.04s"><tspan class="label">Status:</tspan> <tspan class="value">[WARN] api keys delegated &gt;__&lt;</tspan></text>
       <text x="365.6" y="354" class="fieldline typewriter" style="animation-delay:1.10s"><tspan class="label">Contact.GitHub:</tspan> <tspan class="value">github.com/xivasf</tspan></text>
       <text x="365.6" y="376" class="fieldline typewriter" style="animation-delay:1.16s"><tspan class="label">Contact.Web:</tspan> <tspan class="value">tgxc.icu</tspan></text>
@@ -97,8 +97,8 @@
   <text x="34" y="548" class="prompt">┌──(xivasf@github)-[~]</text>
   <text x="34" y="572" class="prompt">└─$ </text>
 
-      <text x="79.0" y="572" class="promptcmd" clip-path="url(#promptClip0)" textLength="144.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">./wake_agents.sh</text>
+      <text x="79.0" y="572" class="promptcmd" clip-path="url(#promptClip0)" textLength="216.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">nmap -sS -T4 10.0.0.0/24</text>
       <text x="79.0" y="572" class="promptcmd" clip-path="url(#promptClip1)" textLength="171.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">tail -f profits.log</text>
-      <text x="79.0" y="572" class="promptcmd" clip-path="url(#promptClip2)" textLength="333.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">claude --dangerously-skip-permissions</text>
+      <text x="79.0" y="572" class="promptcmd" clip-path="url(#promptClip2)" textLength="225.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">sudo emerge -avuDN @world</text>
   <rect x="79.0" y="558" width="8" height="16" class="promptcursor" />
 </svg>
