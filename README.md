@@ -1,29 +1,62 @@
-```
-┌──[xivasf@github]──[~]
-│
-├──╼ $ whoami
-│     ai • trading • automation
-│
-├──╼ $ cat now.txt
-│     building agents that trade while i sleep
-│
-├──╼ $ ls ~/projects
-│     T3MP3ST/  CCli/  git-patch/  emperor-cord-raider/
-│
-├──╼ $ cat status.log
-│     [WARN] claude owns my codebase and my api keys >__<
-│
-└──╼ $ curl -L tgxc.icu
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xivasf/xivasf/refs/heads/main/assets/profile.svg" alt="animated ascii profile card" width="100%" />
+</p>
 
-#### `└──╼ $ stack --list`
+<br>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cs,react,git,firebase,github,nextjs,nodejs,tailwind,docker,unity,powershell,vscode,visualstudio,dotnet,css,cmake&theme=dark&perline=10" alt="python, java, js, ts, c#, react, git, firebase, github, next.js, node.js, tailwind, docker, unity, powershell, vscode, visual studio, .net, css, cmake" />
-</a>
+---
 
-#### `└──╼ $ stats --live`
+<h3 align="center">Connect With Me</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=xivasf&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" height="165" alt="github stats" /> <img src="https://streak-stats.demolab.com?user=xivasf&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" height="165" alt="streak" />
+<p align="center">
+  <a href="https://github.com/xivasf">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://tgxc.icu/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff41" alt="Website"/>
+  </a>
+</p>
 
-<sub>`└──╼ $ logout` — connection to xivasf closed.</sub>
+<br>
+
+---
+
+<h3 align="center">Github Stats</h3>
+
+<p align="center">
+  <img height="190" src="https://stats.pphat.top/languages?username=xivasf&type=card" />
+  <img height="190" src="https://stats.pphat.top/languages?username=xivasf&type=pie" />
+</p>
+
+<br>
+
+---
+
+<h3 align="center">Tech Stack & Tools</h3>
+
+<p align="center">
+  <img src="https://stats.pphat.top/icons?name=python,java,js,ts,cs,react,git,firebase,github,nextjs,nodejs,tailwind,docker,unity,powershell,vscode,visualstudio,dotnet,css,cmake&effect=wave&columns=10" />
+</p>
+
+<br>
+
+---
+
+<h3 align="center">Contribution Activity</h3>
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/xivasf/xivasf/pacman-output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/xivasf/xivasf/pacman-output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="github-contribution-pacman"
+      src="https://raw.githubusercontent.com/xivasf/xivasf/pacman-output/pacman-contribution-graph-dark.svg"
+    />
+  </picture>
+</div>
