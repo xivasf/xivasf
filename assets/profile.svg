@@ -98,13 +98,13 @@
       <rect x="533.6" y="478.0" width="20" height="20" rx="3" fill="#39e0d0" stroke="#1b2a1e" stroke-width="1" class="swatch" style="animation-delay:1.70s" />
       <rect x="561.6" y="478.0" width="20" height="20" rx="3" fill="#e8e8e8" stroke="#1b2a1e" stroke-width="1" class="swatch" style="animation-delay:1.75s" />
 
-  <text x="34" y="548" class="prompt">┌──(xivasf@github)-[~]</text>
-  <text x="34" y="572" class="prompt">└─$ </text>
-
-      <text x="79.0" y="572" class="promptcmd" clip-path="url(#promptClip0)" textLength="216.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">nmap -sS -T4 10.0.0.0/24</text>
-      <text x="79.0" y="572" class="promptcmd" clip-path="url(#promptClip1)" textLength="171.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">tail -f profits.log</text>
-      <text x="79.0" y="572" class="promptcmd" clip-path="url(#promptClip2)" textLength="198.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">sudo apt install opsec</text>
-      <text x="79.0" y="572" class="promptcmd" clip-path="url(#promptClip3)" textLength="225.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">git commit -m "got the bread"</text>
-      <text x="79.0" y="572" class="promptcmd" clip-path="url(#promptClip4)" textLength="225.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ssh root@fbi.gov</text>
-  <rect x="79.0" y="558" width="8" height="16" class="promptcursor" />
+      <text x="34" y="548" class="prompt">┌──(xivasf@github)-[~]</text>
+      <text x="34" y="572" class="prompt">└─$ </text>
+      
+      <text x="79" y="572" class="promptcmd" clip-path="url(#promptClip0)">nmap -sS -T4 10.0.0.0/24</text>
+      <text x="79" y="572" class="promptcmd" clip-path="url(#promptClip1)">tail -f profits.log</text>
+      <text x="79" y="572" class="promptcmd" clip-path="url(#promptClip2)">sudo apt install opsec</text>
+      <text x="79" y="572" class="promptcmd" clip-path="url(#promptClip3)">git commit -m "got the bread"</text>
+      <text x="79" y="572" class="promptcmd" clip-path="url(#promptClip4)">ssh root@fbi.gov</text>
+      <rect x="79" y="558" width="8" height="16" class="promptcursor" />
 </svg>
