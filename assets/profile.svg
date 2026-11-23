@@ -75,7 +75,7 @@
   <text x="365.6" y="94" class="header">xivasf@github</text>
   <line x1="365.6" y1="104" x2="565.6" y2="104" class="rule" />
 
-      <text x="365.6" y="134" class="fieldline typewriter" style="animation-delay:0.50s"><tspan class="label">Role:</tspan> <tspan class="value">ai • trading • automation</tspan></text>
+      <text x="365.6" y="134" class="fieldline typewriter" style="animation-delay:0.50s"><tspan class="label">Role:</tspan> <tspan class="value">ai • trader • coder</tspan></text>
       <text x="365.6" y="156" class="fieldline typewriter" style="animation-delay:0.56s"><tspan class="label">Focus:</tspan> <tspan class="value">cybersecurity • penetration testing</tspan></text>
       <text x="365.6" y="178" class="fieldline typewriter" style="animation-delay:0.62s"><tspan class="label">Stack.Languages:</tspan> <tspan class="value">python, typescript, java, c#</tspan></text>
       <text x="365.6" y="200" class="fieldline typewriter" style="animation-delay:0.68s"><tspan class="label">Stack.Frontend:</tspan> <tspan class="value">react, next.js, tailwind, css</tspan></text>
@@ -84,9 +84,8 @@
       <text x="365.6" y="266" class="fieldline typewriter" style="animation-delay:0.86s"><tspan class="label">Stack.Misc:</tspan> <tspan class="value">unity</tspan></text>
       <text x="365.6" y="288" class="fieldline typewriter" style="animation-delay:0.92s"><tspan class="label">Environment:</tspan> <tspan class="value">dual boot: gentoo / win11 — mostly gentoo</tspan></text>
       <text x="365.6" y="310" class="fieldline typewriter" style="animation-delay:0.98s"><tspan class="label">Editors:</tspan> <tspan class="value">vscode, visual studio</tspan></text>
-      <text x="365.6" y="332" class="fieldline typewriter" style="animation-delay:1.04s"><tspan class="label">Status:</tspan> <tspan class="value">[WARN] api keys delegated &gt;__&lt;</tspan></text>
       <text x="365.6" y="354" class="fieldline typewriter" style="animation-delay:1.10s"><tspan class="label">Contact.GitHub:</tspan> <tspan class="value">github.com/xivasf</tspan></text>
-      <text x="365.6" y="376" class="fieldline typewriter" style="animation-delay:1.16s"><tspan class="label">Contact.Web:</tspan> <tspan class="value">tgxc.icu</tspan></text>
+      <text x="365.6" y="376" class="fieldline typewriter" style="animation-delay:1.16s"><tspan class="label">Contact.Web:</tspan> <tspan class="value">tgxc.icu (i need to renew it)</tspan></text>
       <text x="365.6" y="398" class="fieldline typewriter" style="animation-delay:1.22s"><tspan class="label">GitHub.Repos:</tspan> <tspan class="value">9 public</tspan></text>
       <text x="365.6" y="420" class="fieldline typewriter" style="animation-delay:1.28s"><tspan class="label">GitHub.Languages:</tspan> <tspan class="value">Python, TypeScript, JavaScript</tspan></text>
 
@@ -105,6 +104,7 @@
       <text x="79.0" y="572" class="promptcmd" clip-path="url(#promptClip0)" textLength="216.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">nmap -sS -T4 10.0.0.0/24</text>
       <text x="79.0" y="572" class="promptcmd" clip-path="url(#promptClip1)" textLength="171.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">tail -f profits.log</text>
       <text x="79.0" y="572" class="promptcmd" clip-path="url(#promptClip2)" textLength="198.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">sudo apt install opsec</text>
-      <text x="79.0" y="572" class="promptcmd" clip-path="url(#promptClip3)" textLength="225.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">sudo emerge -avuDN @world</text>
+      <text x="79.0" y="572" class="promptcmd" clip-path="url(#promptClip3)" textLength="225.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">git commit -m "got the bread"</text>
+      <text x="79.0" y="572" class="promptcmd" clip-path="url(#promptClip4)" textLength="225.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ssh root@fbi.gov</text>
   <rect x="79.0" y="558" width="8" height="16" class="promptcursor" />
 </svg>
